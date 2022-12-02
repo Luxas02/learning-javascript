@@ -58,3 +58,4 @@ const context = canvas.getContext("2d");
 	by going through some of the examples found here:
 	https://bucephalus.org/text/CanvasHandbook/CanvasHandbook.html#drawing-images
 */
+s.jpeg
